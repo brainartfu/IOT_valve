@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Poppins';
+    src: local('Poppins'), url(./../assets/fonts/Poppins/Poppins-Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: 'Cubano';
+    src: local('Cubano'), url(./../assets/fonts/Cubano/Cubano.ttf);
+  }
+  @font-face {
+    font-family: 'Fooer';
+    src: local('Footer'), url(./../assets/fonts/AbrilFatface/AbrilFatface-Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: "follow";
+    src: local('follow'), url(./../assets/fonts/Oleo_Script/OleoScript-Bold.ttf);
+  }
+  
+  @font-face {
+    font-family: 'HelveticaNeueHeavy';
+    src: url(./../assets/fonts/main/HelveticaNeueHeavy.woff) format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'HelveticaNeueMedium';
+    src: url(./../assets/fonts/main/HelveticaNeueMedium.woff) format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'HelveticaNeue';
+    src: url(./../assets/fonts/main/HelveticaNeueLight.woff) format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face{
+    font-family: "Roboto";
+    src:url(./../assets/fonts/Roboto/Roboto-Bold.ttf) format('woff');
+    font-style: normal;
+    font-display: swap;
+  }
